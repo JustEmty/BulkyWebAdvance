@@ -1,0 +1,12 @@
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.deps.json
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.dll
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\bin\Debug\net7.0\Bulky.Models.pdb
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.AssemblyReference.cache
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.AssemblyInfo.cs
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.dll
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\refint\Bulky.Models.dll
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\Bulky.Models.pdb
+D:\ASP.NET Projects\GithubProject\BulkyWebAdvance\Bulky\Bulky.Models\obj\Debug\net7.0\ref\Bulky.Models.dll
